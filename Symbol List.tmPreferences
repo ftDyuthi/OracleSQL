@@ -6,10 +6,7 @@
     <string>Symbol List</string>
     <key>scope</key>
     <string>source.plsql.oracle meta.procedure.oracle,source.plsql.oracle meta.function.oracle, source.plsql.oracle meta.package.oracle</string>
-    <key>settings</key>
-    <dict>
-        <key>showInSymbolList</key>
-        <integer>1</integer>
+    
     </dict>
     <key>uuid</key>
     <string>AEA27D4E-7DBA-427F-BB8D-36AD5EB40774</string>
